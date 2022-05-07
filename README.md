@@ -1,6 +1,6 @@
 # cloneinstagram
 
-Clone instagram 
+Clone da página inicial do instagram 
 
 para visualizar https://yu422k.csb.app/
 
